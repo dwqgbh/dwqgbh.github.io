@@ -1,0 +1,89 @@
+
+	/**5usujian.com create, please make sure this file can be written!**/
+	/**Simple Start**/
+	#wysj-waiter .waiter-ul li{border-bottom-color:#eeeeee;}
+	#wysj-waiter{width:60px; bottom: 80px; right: 0px;}
+	#wysj-waiter .waiter-ul li{height:60px;line-height:60px;}
+	#wysj-waiter .waiter-ul li a{font-size:24px; width:60px; height:60px;line-height:60px;}
+	#wysj-waiter .waiter-ul li .waiter-title{font-size:14px;}
+	#wysj-waiter .waiter-title{width:150px;}
+	#wysj-waiter .waiter-ul li:hover .waiter-title{left: -158px;}
+
+	#wysj-waiter .waiter-ul li.wuyou-phone a,
+	#wysj-waiter .waiter-ul li.wuyou-phone .waiter-title{background-color:; color:;}
+	#wysj-waiter .waiter-ul li.wuyou-phone a:before{color:;}
+	#wysj-waiter .waiter-ul li.wuyou-phone .waiter-title:before{background-color:;}
+	#wysj-waiter .waiter-ul li.wuyou-phone:hover a,
+	#wysj-waiter .waiter-ul li.wuyou-phone:hover .waiter-title{background-color:; color:;}
+	#wysj-waiter .waiter-ul li.wuyou-phone a:hover:before{color:;}
+	#wysj-waiter .waiter-ul li.wuyou-phone:hover .waiter-title:before{background-color:;}
+
+	
+			#wysj-waiter .waiter-ul #diy1503625577 a,
+			#wysj-waiter .waiter-ul #diy1503625577 .waiter-title{background-color:; color:;}
+			#wysj-waiter .waiter-ul #diy1503625577 .waiter-title:before{background-color:;}
+			#wysj-waiter .waiter-ul #diy1503625577 a:before{color:;}
+			#wysj-waiter .waiter-ul #diy1503625577 a:before{color:;}
+			#wysj-waiter .waiter-ul #diy1503625577:hover a,
+			#wysj-waiter .waiter-ul #diy1503625577:hover .waiter-title{background-color:; color:;}
+			#wysj-waiter .waiter-ul #diy1503625577 a:hover:before{color:;}
+			#wysj-waiter .waiter-ul #diy1503625577:hover .waiter-title:before{background-color:;}
+
+	#wysj-waiter .waiter-ul li.wuyou-qq a,
+	#wysj-waiter .waiter-ul li.wuyou-qq .waiter-title{background-color:; color:;}
+	#wysj-waiter .waiter-ul li.wuyou-qq a:before{color:;}
+	#wysj-waiter .waiter-ul li.wuyou-qq .waiter-title:before{background-color:;}
+	#wysj-waiter .waiter-ul li.wuyou-qq:hover a,
+	#wysj-waiter .waiter-ul li.wuyou-qq:hover .waiter-title{background-color:; color:;}
+	#wysj-waiter .waiter-ul li.wuyou-qq a:hover:before{color:;}
+	#wysj-waiter .waiter-ul li.wuyou-qq:hover .waiter-title:before{background-color:;}
+
+	#wysj-waiter .waiter-ul li.wuyou-ww a,
+	#wysj-waiter .waiter-ul li.wuyou-ww .waiter-title{background-color:; color:;}
+	#wysj-waiter .waiter-ul li.wuyou-ww a:before{color:;}
+	#wysj-waiter .waiter-ul li.wuyou-ww a:hover:before{color:;}
+	#wysj-waiter .waiter-ul li.wuyou-ww .waiter-title:before{background-color:;}
+	#wysj-waiter .waiter-ul li.wuyou-ww:hover a,
+	#wysj-waiter .waiter-ul li.wuyou-ww:hover .waiter-title{background-color:; color:;}
+	#wysj-waiter .waiter-ul li.wuyou-ww:hover .waiter-title:before{background-color:;}
+
+	#wysj-waiter .waiter-ul li.wuyou-qrCode a,
+	#wysj-waiter .waiter-ul li.wuyou-qrCode .waiter-title{background-color:; color:;}
+	#wysj-waiter .waiter-ul li.wuyou-qrCode a:before{color:;}
+	#wysj-waiter .waiter-ul li.wuyou-qrCode a:hover:before{color:;}
+	#wysj-waiter .waiter-ul li.wuyou-qrCode .waiter-title p{color:;}
+	#wysj-waiter .waiter-ul li.wuyou-qrCode .waiter-title:before{background-color:;}
+	#wysj-waiter .waiter-ul li.wuyou-qrCode:hover a,
+	#wysj-waiter .waiter-ul li.wuyou-qrCode:hover .waiter-title{background-color:; color:;}
+	#wysj-waiter .waiter-ul li.wuyou-qrCode:hover .waiter-title p{color:;}
+	#wysj-waiter .waiter-ul li.wuyou-qrCode:hover .waiter-title:before{background-color:;}
+
+	#wysj-waiter .waiter-ul li.wuyou-skype a,
+	#wysj-waiter .waiter-ul li.wuyou-skype .waiter-title{background-color:; color:;}
+	#wysj-waiter .waiter-ul li.wuyou-skype a:before{color:;}
+	#wysj-waiter .waiter-ul li.wuyou-skype a:hover:before{color:;}
+	#wysj-waiter .waiter-ul li.wuyou-skype .waiter-title:before{background-color:;}
+	#wysj-waiter .waiter-ul li.wuyou-skype:hover a,
+	#wysj-waiter .waiter-ul li.wuyou-skype:hover .waiter-title{background-color:; color:;}
+	#wysj-waiter .waiter-ul li.wuyou-skype:hover .waiter-title:before{background-color:;}
+
+	#wysj-waiter .waiter-ul li.wuyou-qqqun a,
+	#wysj-waiter .waiter-ul li.wuyou-qqqun .waiter-title{background-color:; color:;}
+	#wysj-waiter .waiter-ul li.wuyou-qqqun a:before{color:;}
+	#wysj-waiter .waiter-ul li.wuyou-qqqun a:hover:before{color:;}
+	#wysj-waiter .waiter-ul li.wuyou-qqqun .waiter-title:before{background-color:;}
+	#wysj-waiter .waiter-ul li.wuyou-qqqun:hover a,
+	#wysj-waiter .waiter-ul li.wuyou-qqqun:hover .waiter-title{background-color:; color:;}
+	#wysj-waiter .waiter-ul li.wuyou-qqqun:hover .waiter-title:before{background-color:;}
+
+	#wysj-waiter .waiter-ul li.wuyou-top a,
+	#wysj-waiter .waiter-ul li.wuyou-top .waiter-title{background-color:; color:;}
+	#wysj-waiter .waiter-ul li.wuyou-top a:before{color:;}
+	#wysj-waiter .waiter-ul li.wuyou-top a:hover:before{color:;}
+	#wysj-waiter .waiter-ul li.wuyou-top .waiter-title:before{background-color:;}
+	#wysj-waiter .waiter-ul li.wuyou-top:hover a,
+	#wysj-waiter .waiter-ul li.wuyou-top:hover .waiter-title{background-color:; color:;}
+	#wysj-waiter .waiter-ul li.wuyou-top:hover .waiter-title:before{background-color:;}
+	/**Simple Over**/
+
+	

@@ -1,0 +1,49 @@
+body, div, a, img {
+    font-family: "Arial";
+    margin: 0;
+    padding: 0;
+}
+
+#ttp {
+	z-index: 100000;
+    background-color: #fff;
+    width: 100%;
+    position: fixed;
+	text-align:center;
+	box-shadow: #666 1px 1px 8px;
+	vertical-align: bottom;
+	top: 0%;
+    left: 50%;
+    transform: translate(-50%, -0%);
+}
+
+#ttl {
+    display: inline;
+	padding-left:10px;
+	padding-right:55px;
+}
+#ttl img {
+	vertical-align: middle;
+	width: 215px; 
+	height: 55px;
+}
+#ttn {
+    color: #000;
+	background-color: #fff;
+    font-size: 18px;
+    line-height: 54px;
+    display: inline;
+    white-space: nowrap;
+	margin-bottom:0px;
+}
+
+#ttn a {
+    color: #000;
+    text-decoration: none;
+	margin-left: 10px;
+	font-size:18px!important;
+}
+#ttn a.on {
+	padding-bottom:15px;
+	border-bottom:5px solid #c92d31; 
+}
