@@ -1,0 +1,33 @@
+html, body { margin: 0; padding: 0; }
+body { font-family: "Microsoft YaHei" } 
+ul { padding: 0; margin: 0; list-style: none; }
+div, p, h1, h2, h3, h4, li { padding: 0; margin: 0; }
+a { text-decoration: none; }
+.clearfix:before, .clearfix:after { content:""; display:table; }
+.clearfix:after { clear:both; }
+.clearfix {  *zoom:1;/*IE/7/6*/}
+.tp {
+    position:fixed;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -0%);
+	width: 100%;
+	height: 55px;
+	background: #fC0 !important;
+	z-index: 100000;
+	text-align:center; 
+
+}
+.tnav { background: #fff !important; height: 55px;   box-sizing: border-box; box-shadow: #666 1px 1px 8px; 	margin:0 auto; left:auto;	right:auto; text-align:center;  }
+.tnav .tlogo { width: 202px; padding-top:1px; height: 94px; float: left; }
+.tnav .tlogo img { vertical-align: middle; margin-top: 5px; }
+.tmenu { padding-left: 20px;  }
+.tmenu li { float: left; line-height: 60px; padding-left:20px; }
+.tmenu li.on a { padding-bottom:10px; border-bottom:3px solid #c92d31; }
+.tmenu li a { font-size:18px!important; color: #000;  }
+.tmain{ padding-top:130px}
+.topbar .tel{ float: right; margin-right:30px;background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 22px;
+	background-image: url(/nav/ico-t-tel.png);
+	background-size:16px auto;}

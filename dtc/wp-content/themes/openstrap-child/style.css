@@ -1,0 +1,133 @@
+/*
+Theme Name: Openstrap Child (DTC)
+Author: Crossover
+Author URI: http://www.opencodez.com
+Template: openstrap
+Description: The Openstrap theme for WordPress developed on top of Twitter Bootstrap Framework 3.0. The theme is fully responsive and can be viewed on any device. Openstrap theme provides 6 different layouts for posts and pages, 11 widget areas, 3 strategic menu locations, nicely designed and customizable footer with its own widgets. In addition to this the theme comes with pre-installed widgets for Google Custom Search Engine, Social Icon Box and Front Page Marketing Text unit. Openstrap provides 4 beautiful color schemes to choose from. Use any color theme that is suitable to your need.
+Version:      1.0.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: light, orange, white, one-column, two-columns, three-columns, right-sidebar, left-sidebar, responsive-layout, custom-background, custom-header, custom-menu, featured-images, flexible-header, full-width-template, post-formats, sticky-post, theme-options, translation-ready, custom-colors
+Text Domain: openstrap-child
+*/
+/*  Copyright 2013 Opencodez.
+Openstrap WordPress theme, Copyright (C) 2013 OPENCODEZ.COM
+Openstrap WordPress theme is licensed under the GPL.
+
+The license for this software can also likely be found here:
+http://www.gnu.org/licenses/gpl-3.0.html
+*/
+@import url("./../openstrap/style.css");
+
+/* Front Page CSS */
+
+@media (max-width: 1000px) {
+    #bodychild {
+        max-width: 1000px;
+        width: 100%;
+    }
+
+}
+
+.slider {
+    margin-bottom: 0;
+}
+
+#main-container {
+    margin-top: 20px;
+}
+
+ul#mqtranslate-chooser li {
+    display: inline;
+    padding: 10px;
+}
+
+ul#mqtranslate-chooser.qtrans_language_chooser {
+    padding: 5px;
+    margin-bottom: 0px;
+    text-align: right;
+}
+
+/* ul#mqtranslate-chooser li a{
+	color: #000;
+} */
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover {
+    color: #ffffff;
+    background-color: #706F6F;
+}
+
+.navbar-inverse .navbar-nav > .active > a:focus {
+    color: #ffffff;
+    background-color: #464145;
+}
+
+.navbar-inverse {
+    background-color: rgb(221, 221, 221);
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #000;
+}
+
+.navbar-inverse .navbar-nav > .dropdown > a .caret {
+    border-top-color: #000;
+    border-bottom-color: #000;
+}
+
+@media (max-width: 767px) {
+    .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+        color: #333333;
+    }
+
+}
+
+.dropdown-menu > li > a {
+    padding: 6px 20px;
+    color: #333333;
+}
+
+ul.xoxo.blogroll li {
+    display: inline;
+    padding: 0px;
+}
+
+ul.xoxo.blogroll li a img {
+    width: 105px;
+    height: 45px;
+    margin: 8px;
+}
+
+.entry-title {
+    font-size: 28px;
+    color: #993399;
+}
+
+h3 {
+    color: #993399;
+}
+
+.preview {
+    text-align: center;
+    float: left;
+    height: 80px;
+}
+
+.su-post-media {
+    margin-bottom: 0.5em;
+}
+
+#bodychild {
+    max-width: 1000px;
+    width: 100%;
+}
+
+.su-slider-slide {
+    position: relativee;
+    float: lefte;
+}
+

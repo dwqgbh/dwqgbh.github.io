@@ -1,0 +1,105 @@
+legend {
+    display: block;
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    line-height: inherit;
+    color: #FFF;
+    border: 0;
+    border-bottom: 1px solid #e5e5e5;
+    background-color: #7e3116;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: #f5f5f5;
+}
+
+.container {
+    width: auto;
+    max-width: 980px;
+    padding: 0 15px;
+}
+
+.container .text-muted {
+    margin: 20px 0;
+}
+
+/* Start of Icon Captcha Setting */
+.iconcaptcha-holder {
+    margin: 10px auto;
+}
+.iconcaptcha-holder.iconcaptcha-init .iconcaptcha-modal__body-circle {
+  border-radius: 100%;
+  border: 6px solid #d95252;
+}
+.iconcaptcha-holder .iconcaptcha-modal__body-selection > i {
+  border-radius: 100%;
+  background: #d95252;
+}
+.iconcaptcha-holder .iconcaptcha-modal__body .captcha-loader {
+  border-radius: 100%;
+  border: 6px solid #d95252;
+}
+@-webkit-keyframes captcha-breathing {
+  0%,
+  100% {
+    -webkit-transform: scale(1) translateZ(0);
+    transform: scale(1) translateZ(0);
+    border-color: #d95252;
+  }
+  25% {
+    -webkit-transform: scale(2) translateZ(0);
+    transform: scale(2) translateZ(0);
+    border-color: #c74141;
+  }
+  50% {
+    -webkit-transform: scale(1) translateZ(0);
+    transform: scale(1) translateZ(0);
+    border-color: #d95252;
+  }
+  75% {
+    -webkit-transform: scale(2) translateZ(0);
+    transform: scale(2) translateZ(0);
+    border-color: #c74141;
+  }
+}
+@keyframes captcha-breathing {
+  0%,
+  100% {
+    -webkit-transform: scale(1) translateZ(0);
+    transform: scale(1) translateZ(0);
+    border-color: #d95252;
+  }
+  25% {
+    -webkit-transform: scale(2) translateZ(0);
+    transform: scale(2) translateZ(0);
+    border-color: #c74141;
+  }
+  50% {
+    -webkit-transform: scale(1) translateZ(0);
+    transform: scale(1) translateZ(0);
+    border-color: #d95252;
+  }
+  75% {
+    -webkit-transform: scale(2) translateZ(0);
+    transform: scale(2) translateZ(0);
+    border-color: #c74141;
+  }
+}
+/* End of Icon Captcha Setting */

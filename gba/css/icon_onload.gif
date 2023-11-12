@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<title>404</title>
+<script type="text/javascript" src="//www.dmpsz.com/templates/dmpsz/js/jquery-1.11.2.min.js"></script>
+<style type="text/css">
+<!--
+@media only screen and (min-width: 769px) {
+.page{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);text-align:center;border:1px solid #e9e9e9;padding-top:20px;padding-bottom:40px;padding-right:100px;padding-left:100px;border-radius:10px;background-color:#fff}
+body{color:#555;font-size:17px}
+#sec{color:#f90;font-size:18px;margin-right:3px}
+.page .logo img{max-width:120px}
+.page .logo strong{font-size:28px;line-height:24px;color:#333;display:block;margin:0;padding:0;height:24px}
+.page .logo p{font-size:14px;line-height:16px;padding-top:2px;padding-bottom:40px}
+.page .btn{text-align:center;padding-top:40px}
+.page .btn a{color:#444;background-color:#f2de2a;white-space:nowrap;display:inline-block;height:58px;padding-right:25px;padding-left:25px;font-size:18px;line-height:58px;text-decoration:none;border-radius:4px;border:1px solid #f0da0f}
+.page .btn a:hover{background-color:#f1dc18}
+}
+@media only screen and (max-width: 768px) {
+.page{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);text-align:center; padding-right:25px;padding-left:25px;border-radius:10px;background-color:#fff; width:100%;box-sizing:border-box;}
+body{color:#555;font-size:17px}
+#sec{color:#f90;font-size:18px;margin-right:3px}
+.page .logo img{max-width:120px}
+.page .logo strong{font-size:28px;line-height:24px;color:#333;display:block;margin:0;padding:0;height:24px}
+.page .logo p{font-size:14px;line-height:16px;padding-top:2px;padding-bottom:40px}
+.page .btn{text-align:center;padding-top:40px}
+.page .btn a{color:#444;background-color:#f2de2a;white-space:nowrap;display:inline-block;height:58px;padding-right:25px;padding-left:25px;font-size:18px;line-height:58px;text-decoration:none;border-radius:4px;border:1px solid #f0da0f}
+.page .btn a:hover{background-color:#f1dc18}
+}
+-->
+</style>
+
+</head>
+<body>
+<div class="page">
+  <div class="logo">
+    <img src="//www.dmpsz.com/templates/dmpsz/images/logo.png" />
+    <strong>大湾区工博会</strong>
+<p>深圳国际会展中心(宝安)</p>
+  </div>
+  <div class="tips">抱歉，网页不存在或地址有误。<b id="sec">5</b>秒后进入大湾区工博会首页！</div>
+  <div class="btn"><a href="//www.dmpsz.com/">进入大湾区工博会首页</a></div>
+</div>
+<script type="text/javascript">
+	$(function () {            
+	   setTimeout("lazyGo();", 1000);
+	});
+	function lazyGo() {
+	    
+		var sec = $("#sec").text();
+		$("#sec").text(--sec);
+		if (sec > 0)
+			setTimeout("lazyGo();", 1000);
+		else
+			window.location.href = "//www.dmpsz.com/";
+	}
+	</script>
+</body>
+</html>

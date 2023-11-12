@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/bootstrap-datetimepicker.css">
+    <link rel="stylesheet" href="./css/jquery-ui.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/ui-grid-unstable.min.css">
+    <title>GREATER BAY EXPO 观众网上预先登记</title>
+    <script type="text/javascript" src="./js/jquery.min.js"></script>
+    <script type="text/javascript" src="./js/moment-with-locales.min.js"></script>
+    <script type="text/javascript" src="./js/bootstrap.js"></script>
+    <script type="text/javascript" src="./js/bootstrap-datetimepicker.js"></script>
+    <script type="text/javascript" src="./js/jquery.validate.js"></script>
+    <script type="text/javascript" src="./js/jquery-validate.bootstrap-tooltip.js"></script>
+    <script type="text/javascript" src="./js/angular.js"></script>
+    <script type="text/javascript" src="./js/ui-grid-unstable.min.js"></script>
+    <!--    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-moment/0.9.0/angular-moment.min.js"></script>-->
+    <script type="text/javascript" src="./js/main.js"></script>
+        <!-- Include IconCaptcha script & stylesheet | Change paths according to your installation -->
+    <link href="./inc/icon-captcha/assets/css/icon-captcha.min.css" rel="stylesheet" type="text/css">
+    <script src="./inc/icon-captcha/assets/js/icon-captcha.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            var messages = {
+    "wrong_icon": "\u60a8\u9078\u932f\u4e86\u5716\u7247\u3002 ",
+    "no_selection": "\u6c92\u6709\u9078\u64c7\u5716\u50cf\u3002 ",
+    "empty_form": "\u60a8\u9084\u6c92\u6709\u63d0\u4ea4\u4efb\u4f55\u8868\u683c\u3002 ",
+    "invalid_id": "\u9a57\u8b49\u78bc\u7121\u6548\u3002 ",
+    "form_token": "\u8868\u55ae\u4ee4\u724c\u7121\u6548\u3002 ",
+    "initialization": {
+        "verify": "\u9a57\u8b49\u4f60\u662f\u4eba\u985e\u3002 ",
+        "loading": "\u52a0\u8f09\u6311\u6230..."
+    },
+    "header": "\u9078\u64c7\u986f\u793a\u6b21\u6578<u>\u6700\u5c11<\/u>\u7684\u5716\u7247",
+    "correct": "\u9a57\u8b49\u5b8c\u6210\u3002 ",
+    "incorrect": {
+        "title": "\u5443\u54e6\u3002 ",
+        "subtitle": "\u4f60\u9078\u932f\u4e86\u5716\u7247\u3002"
+    },
+    "timeout": {
+        "title": "\u8acb\u7b49\u5f85 60 \u79d2",
+        "subtitle": "\u4f60\u505a\u4e86\u592a\u591a\u4e0d\u6b63\u78ba\u7684\u9078\u64c7\u3002 "
+    }
+};
+            IconCaptcha.init('.iconcaptcha-holder',{
+                // The captcha options go here.
+                general: {
+                    validationPath: 'inc/icon-captcha/captcha-request.php', // required, change path according to your installation.
+                    fontFamily: 'Poppins',
+                    credits: 'show',
+                },
+                security: {
+                    clickDelay: 500,
+                    hoverDetection: true,
+                    enableInitialMessage: true,
+                    initializeDelay: 500,
+                    selectionResetDelay: 3000,
+                    loadingAnimationDelay: 1000,
+                    invalidateTime: 1000 * 60 * 2, // 2 minutes, in milliseconds
+                },
+                messages
+            });
+        });
+    </script>
+        <!-- Bytedance Tracking --> 
+    <script> (function(r,d,s,l){var meteor=r.meteor=r.meteor||[];meteor.methods=["track","off","on"]
+        ;meteor.factory=function(method){return function(){ var args=Array.prototype.slice.call(arguments);args.unshift(method);meteor.push(args);
+            return meteor}};for(var i=0;i<meteor.methods.length;i++){ var key=meteor.methods[i];meteor[key]=meteor.factory(key)}
+            meteor.load=function(){var js,fjs=d.getElementsByTagName(s)[0];js=d.createElement(s);
+             js.src="https://analytics.snssdk.com/meteor.js/v1/"+l+"/sdk";fjs.parentNode.insertBefore(js,fjs)};meteor.load();
+            if(meteor.invoked){return} meteor.invoked=true;meteor.track("pageview")})(window,document,"script","1638731639516164"); 
+            </script> 
+    <!-- End Bytedance Tracking -->
+</head><div id="ttp"><div id="ttl"><a href="http://dwqgbh.cn"><img src="/nav/logo.png"></a></div><div id="ttn"><a id="gba" href="http://dwqgbh.cn/" >首页</a><a id="xt" href="http://dwqgbh.cn/xt/cn/" >近期展会</a><a id="dmp" href="/dmp/cn/">模具机床设备展</a><a id="dtc" href="/dtc/cn/">纺织缝制设备展</a><a id="dfm" href="/dfm/cn/">鞋机飞织技术展</a><a id="news" href="/news/"  target="_blank">快讯</a><a id="nav" href="https://admin.dwqgbh.cn/nav/guestbook.htm"  target="_blank">联系我</a><a class="wysj wysj-iconfontcolor39"  href="tel:13761470961" target="_blank">13761470961</a></div></div><link rel="stylesheet" type="text/css" href="/nav/wysj-iconfont.css"><link rel="stylesheet" type="text/css" href="/nav/5us-mobile.css"><link rel="stylesheet" type="text/css" href="/nav/5us-single.css"><link rel="stylesheet" type="text/css" href="/nav/5us-border.css"><link rel="stylesheet" href="/nav/ttn.css"><script type="text/javascript" src="/nav/5us-single.js"></script><script type="text/javascript" src="/nav/jquery.min.js"></script><a id="wysj-switch" class="wysj wysj-kefu2" href="javascript:;"></a><div id="wysj-pop"></div><div id="wysj-waiter"><ul class="waiter-ul"><li class="wuyou-phone"><a class="wysj wysj-iconfontcolor39" href="tel:13761470961" target="_blank"></a><div class="waiter-title">TEL 13761470961</div></li><li class="wuyou-qq"><a class="wysj wysj-qq" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1301150027&amp;site=qq&amp;menu=yes" target="_blank"></a><div class="waiter-title">QQ咨询</div></li><li class="wuyou-qqqun"><a class="wysj wysj-email4" href="mailto:1301150027@qq.com"></a><div class="waiter-title">QQ邮箱</div></li><li class="wuyou-ww"><a class="wysj wysj-edit" href="https://admin.dwqgbh.cn/nav/guestbook.htm" target="_blank"></a><div class="waiter-title">请您留言</div></li><li class="wuyou-qrCode"><a class="wysj wysj-weixin-copy" href="javascript:;" target="_blank"></a><div class="waiter-title"><img src="/nav/wx.png"><p>关注微信</p></div></li><li class="wuyou-top"><a class="wysj wysj-dingbu1" href="javascript:;" onclick="backTop()"></a><div class="waiter-title">回到顶部</div></li></ul></div><script type="text/javascript" src="/nav/init.js"></script>
+<body role="document">
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                    aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="./index.php.html">GREATER BAY EXPO 观众网上预先登记</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+                    </div>
+        <!--/.nav-collapse -->
+    </div>
+</nav>
+<div class="container">
+    <div class="row">
+        <div class="jumbotron">
+            <a href="/dmp/">
+                <img src="https://www.dmpshow.com/images/DMP-header(1038x224)-Nov.jpg" style="margin: 0px auto" class="img-responsive" border="0">
+            </a>
+        </div>
+    </div>    <div class="col-md-10 col-md-offset-1">
+        <div class="text-left">
+            <h4><strong><a style="color: red;" href="./login.php.html">【已登记用户入口】</a></strong></h4>
+        </div>
+        <div class="text-right">
+            <a href="">中文</a> |
+            <a href="./visitor_reg.php%3Flang=en.html">English</a>
+        </div>
+        <h2 class="text-center">2023大湾区工业博览会</h2>
+
+        <h3 class="text-center">观众网上登记</h3>
+                <a href="https://admin.dwqgbh.cn/nav/guestbook.htm"  target="_blank">联系我们</a>
+    </div>
+    <script type="text/javascript">
+    
+    meteor.track("form", {convert_id: "1641291902396427"})
+
+        $("#reg").validate({
+            messages: {
+                name: "请输入姓名",
+                company: "请输入公司名称",
+                title: "请输入职衔",
+                address: "请输入地址",
+                country: "请选择国家",
+                phone_country: "请输入电话国家代码",
+                phone_area: "请输入电话区号",
+                phone_number: "请输入电话号码",
+                fax_country: "请输入传真国家代码",
+                fax_area: "请输入传真区号",
+                fax_number: "请输入传真号码",
+                mobile: "请输入手机",
+                email: "请输入有效电邮，當中不能包含#、!、%等符號。"
+            }
+        });
+    </script>
+</div>
+</div>
+<footer class="footer">
+    <div class="container">
+        <div class="col-md-8">
+            <p class="text-muted">
+                Copyright @2016 - 2017 Paper Communication Exhibition Services. All rights reserved.
+            </p>
+        </div>
+        <div class="col-md-4">
+            <p class="text-muted text-right">
+                <a href="./login.php%3Fadmin=true.html">Admin Login</a>
+            </p>
+        </div>
+    </div>
+</footer>
+</body>
+</html>
