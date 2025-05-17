@@ -400,3 +400,396 @@
 2025-05-17 15:17:10,669 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_152=158
 2025-05-17 15:17:11,548 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_101=107
 2025-05-17 15:18:36,001 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:18:38,249 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:18:38,292 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&min_price=0&max_price=0&orderby=&page=76
+2025-05-17 15:18:43,375 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_152=155
+2025-05-17 15:18:46,407 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:18:51,599 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_130=135
+2025-05-17 15:19:02,108 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:19:02,329 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:19:05,567 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_130=140
+2025-05-17 15:19:06,904 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_152=163
+2025-05-17 15:19:19,082 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:19:20,204 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:19:20,455 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_101=103
+2025-05-17 15:19:23,363 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_152=156
+2025-05-17 15:19:29,400 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:19:32,154 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_101=115
+2025-05-17 15:19:37,507 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:19:39,477 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_130=133
+2025-05-17 15:19:45,904 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:19:47,040 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:19:47,906 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_152=153
+2025-05-17 15:19:48,352 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_101=110
+2025-05-17 15:21:12,641 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:21:15,282 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_152=0
+2025-05-17 15:21:16,300 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:21:21,452 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_152=161
+2025-05-17 15:21:40,536 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:21:44,192 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:21:44,306 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&min_price=0&max_price=0&orderby=&page=2
+2025-05-17 15:21:49,314 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_130=143
+2025-05-17 15:21:50,992 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:21:51,806 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_101=106
+2025-05-17 15:21:56,263 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:21:57,319 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_101=114
+2025-05-17 15:22:15,924 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:22:19,587 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_152=160
+2025-05-17 15:22:20,321 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:22:23,771 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_130=134
+2025-05-17 15:22:31,269 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:22:37,243 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_101=112
+2025-05-17 15:22:38,009 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:22:44,082 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_130=137
+2025-05-17 15:22:56,657 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:23:05,149 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_130=139
+2025-05-17 15:23:05,437 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:23:10,638 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&min_price=0&max_price=0&orderby=&page=4
+2025-05-17 15:23:26,609 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:23:31,456 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_130=141
+2025-05-17 15:23:31,502 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:23:33,023 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&min_price=0&max_price=0&orderby=&page=3
+2025-05-17 15:23:51,048 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:23:54,216 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:23:55,978 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_101=116
+2025-05-17 15:23:56,908 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_130=138
+2025-05-17 15:24:05,078 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:24:10,208 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_130=131
+2025-05-17 15:24:16,934 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:24:20,990 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_101=117
+2025-05-17 15:24:26,932 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:24:34,158 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_130=144
+2025-05-17 15:24:34,482 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:24:36,147 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_101=102
+2025-05-17 15:24:47,110 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:24:49,752 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_101=109
+2025-05-17 15:24:49,753 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:24:54,772 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_152=159
+2025-05-17 15:25:01,341 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:25:03,439 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_130=142
+2025-05-17 15:25:05,617 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:25:08,019 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_101=150
+2025-05-17 15:25:12,255 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:25:13,978 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:25:18,695 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_101=151
+2025-05-17 15:25:19,318 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_101=105
+2025-05-17 15:25:31,094 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:25:31,824 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_152=154
+2025-05-17 15:25:32,351 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:25:32,777 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_101=104
+2025-05-17 15:25:43,944 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:25:51,878 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_101=113
+2025-05-17 15:25:52,261 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:25:52,899 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_101=111
+2025-05-17 15:25:59,122 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:26:01,249 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_101=108
+2025-05-17 15:26:06,917 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:26:12,301 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_130=136
+2025-05-17 15:26:12,765 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:26:17,014 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_130=145
+2025-05-17 15:26:34,544 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:26:40,403 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:26:40,464 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_130=132
+2025-05-17 15:26:45,621 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_152=157
+2025-05-17 15:26:46,679 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/zsyh_ico-04.png
+2025-05-17 15:26:48,628 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/img-615102.jpg
+2025-05-17 15:26:50,554 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/img-bg-6104.jpg
+2025-05-17 15:26:51,556 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/img-615101.jpg
+2025-05-17 15:26:52,242 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/czys_ico-02.png
+2025-05-17 15:26:53,825 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/czys_ico-04.png
+2025-05-17 15:26:55,113 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/czys_ico-01.png
+2025-05-17 15:27:00,077 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/zsyh_ico-02.png
+2025-05-17 15:27:01,721 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/zsyh_ico-03.png
+2025-05-17 15:27:02,696 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:27:02,742 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/zsyh_ico-01.png
+2025-05-17 15:27:03,614 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/czys_ico-03.png
+2025-05-17 15:27:04,891 - INFO - handle_html	http://www.dmpsz.com/tools/submit_ajax.ashx?action=view_article_click&id=25118&click=1
+2025-05-17 15:27:04,903 - WARNING - [isdir]	https://www.dmpsz.com/templates/dmp/images/img-2343259995.jpg	/
+2025-05-17 15:27:06,018 - INFO - Downloaded	https://www.dmpsz.com/templates/dmp/images/img-2343259995.jpg
+2025-05-17 15:27:06,614 - INFO - handle_html	http://www.dmpsz.com/business.html?category_id=471&s_101=0
+2025-05-17 15:27:07,107 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/zhtgys_06.png
+2025-05-17 15:27:07,129 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/zhtgys_04.png
+2025-05-17 15:27:08,749 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/zhtgys_05.png
+2025-05-17 15:27:08,841 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/zhtgys_03.png
+2025-05-17 15:27:09,762 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/szhz_02.jpg
+2025-05-17 15:27:14,097 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/main_banner_rcdj.jpg
+2025-05-17 15:27:15,790 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:27:15,802 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/zhtgys_02.png
+2025-05-17 15:27:16,983 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/szhz_01.jpg
+2025-05-17 15:27:17,698 - INFO - handle_html	http://www.dmpsz.com/photo2020/
+2025-05-17 15:27:19,277 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/zhtgys_01.png
+2025-05-17 15:27:20,338 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/szhz_03.jpg
+2025-05-17 15:27:20,349 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/img-515214101.jpg
+2025-05-17 15:27:21,732 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-info-fl_01.png
+2025-05-17 15:27:21,778 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-info-fl_04.png
+2025-05-17 15:27:22,441 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-info-fl_02.png
+2025-05-17 15:27:22,561 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/Images/nopic.jpg
+2025-05-17 15:27:23,831 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-info-fl_03.png
+2025-05-17 15:28:13,281 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=52:decode() argument 'encoding' must be str, not None
+2025-05-17 15:28:37,992 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=51:decode() argument 'encoding' must be str, not None
+2025-05-17 15:31:55,030 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=30:decode() argument 'encoding' must be str, not None
+2025-05-17 15:46:38,874 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=28:decode() argument 'encoding' must be str, not None
+2025-05-17 15:46:43,508 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ggzq_03.jpg
+2025-05-17 15:46:44,275 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ggzs_ico-03.png
+2025-05-17 15:46:45,470 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ggzs_ico-01.png
+2025-05-17 15:46:47,170 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ggzq_02.jpg
+2025-05-17 15:46:49,241 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ggzs_ico-02.png
+2025-05-17 15:46:52,162 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/img-625002.jpg
+2025-05-17 15:46:53,573 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/img-625005.jpg
+2025-05-17 15:46:54,456 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/img-9151521445.jpg
+2025-05-17 15:46:56,645 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/img-625001.jpg?x-oss-process=image/resize,m_fill,h_537,w_437
+2025-05-17 15:46:57,959 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/img-625004.jpg
+2025-05-17 15:47:00,003 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/img-625003.jpg
+2025-05-17 15:47:07,495 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/quanqiu_ywfg.jpg
+2025-05-17 15:47:09,455 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-add--.png
+2025-05-17 15:47:12,110 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/wl-07.jpg
+2025-05-17 15:47:14,221 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico_pause.png
+2025-05-17 15:47:15,049 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/cgzl_bg.png
+2025-05-17 15:47:15,334 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/valid_icons_Validform_wrong.png
+2025-05-17 15:47:15,961 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/Bbtn-arrow-black.png
+2025-05-17 15:47:16,394 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-fl_tips.png
+2025-05-17 15:47:18,652 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ggzq_01.jpg
+2025-05-17 15:47:19,309 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/rcdj_bg2.jpg
+2025-05-17 15:47:20,548 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/zlfw-fl-bg.jpg
+2025-05-17 15:47:23,380 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico_new_bm.png
+2025-05-17 15:47:24,505 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-m-sub-02-h.png
+2025-05-17 15:47:26,201 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/img-bg-6103.png
+2025-05-17 15:47:28,888 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-download.png
+2025-05-17 15:47:30,260 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/rcdj_bg4-1.jpg
+2025-05-17 15:47:30,899 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-cgbm-ok.png
+2025-05-17 15:47:36,988 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/qy-libg3.jpg
+2025-05-17 15:47:53,328 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/fl_bg.png
+2025-05-17 15:47:53,604 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-bm_tag.png
+2025-05-17 15:47:55,545 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/rcdj_bg4-2.jpg
+2025-05-17 15:47:57,109 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/scts.png
+2025-05-17 15:48:12,871 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/gyzh_bg_02.png
+2025-05-17 15:48:14,230 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-zs-cxkj.png
+2025-05-17 15:48:15,695 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-sj-.png
+2025-05-17 15:48:16,672 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/yy_03.png
+2025-05-17 15:48:17,590 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-pic-fd.png
+2025-05-17 15:48:19,280 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/Bbtn-arrow-black-f.png
+2025-05-17 15:48:19,460 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=57:decode() argument 'encoding' must be str, not None
+2025-05-17 15:48:20,089 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/img-bg-6102.jpg
+2025-05-17 15:48:23,591 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/rcdj_bg4.jpg
+2025-05-17 15:48:24,652 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-pdf.png
+2025-05-17 15:48:26,636 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-dd-.png
+2025-05-17 15:48:28,244 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/Bbtn-arrow-white.png
+2025-05-17 15:48:30,440 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-file_jpg.png
+2025-05-17 15:48:31,507 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/qy-libg5.jpg
+2025-05-17 15:48:34,418 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-file_file.png
+2025-05-17 15:48:34,909 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-zjxny.png
+2025-05-17 15:48:35,422 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/fl_bg002.jpg
+2025-05-17 15:48:38,576 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/gzkb_text_bg.png
+2025-05-17 15:48:38,824 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico_play.png
+2025-05-17 15:48:40,122 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-fx-scl2.png
+2025-05-17 15:48:40,133 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/fl_bg001.jpg
+2025-05-17 15:48:41,849 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/zscx_head_bg.jpg
+2025-05-17 15:48:41,880 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/quanqiu_ywfg-.jpg
+2025-05-17 15:48:43,047 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/hj-l.jpg
+2025-05-17 15:48:46,488 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-m-sub-03.png
+2025-05-17 15:48:46,613 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/zhsjbg_02.jpg
+2025-05-17 15:48:47,381 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/rcdj_bg3.jpg
+2025-05-17 15:48:47,400 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/gyzh_bg_01.jpg
+2025-05-17 15:48:49,484 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/wl-01.jpg
+2025-05-17 15:48:51,187 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/lxwm_bg.jpg
+2025-05-17 15:48:52,027 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-date.png
+2025-05-17 15:48:52,996 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/fltg_bg1.jpg
+2025-05-17 15:48:54,001 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/hyjd_pic1.jpg
+2025-05-17 15:48:55,098 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/close.png
+2025-05-17 15:48:55,183 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/wl-04.jpg
+2025-05-17 15:48:55,954 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/qy-libg2.jpg
+2025-05-17 15:48:56,190 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/qy-libg1.jpg
+2025-05-17 15:48:56,213 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-file_zip.png
+2025-05-17 15:48:57,657 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=29:decode() argument 'encoding' must be str, not None
+2025-05-17 15:48:58,022 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/icon-tag.png
+2025-05-17 15:48:59,073 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-tips.png
+2025-05-17 15:48:59,216 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/dw.png
+2025-05-17 15:49:00,194 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/rcdj_bg1.jpg
+2025-05-17 15:49:00,608 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-paizhao.png
+2025-05-17 15:49:00,681 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/qy-libg6.jpg
+2025-05-17 15:49:00,823 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-zs-zsmd.png
+2025-05-17 15:49:01,562 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/zhbg_libg.png
+2025-05-17 15:49:01,633 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/lxwm_01-.jpg
+2025-05-17 15:49:02,680 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/wl-03.jpg
+2025-05-17 15:49:02,686 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/wl-05.jpg
+2025-05-17 15:49:04,378 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-li-008.png
+2025-05-17 15:49:04,708 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/hj-r.jpg
+2025-05-17 15:49:05,602 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-sj.png
+2025-05-17 15:49:07,227 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/img-diqiu.png
+2025-05-17 15:49:08,069 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-qa.png
+2025-05-17 15:49:08,364 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-fx-scl1.png
+2025-05-17 15:49:08,904 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-file_pdf.png
+2025-05-17 15:49:09,019 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/bmfl_tc_01.png
+2025-05-17 15:49:12,492 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/wl-06.jpg
+2025-05-17 15:49:13,036 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/wl-02.jpg
+2025-05-17 15:49:13,880 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/Bbtn-arrow-yellow.png
+2025-05-17 15:49:14,113 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-closure.png
+2025-05-17 15:49:15,023 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-click.png
+2025-05-17 15:49:15,906 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-lxzs.png
+2025-05-17 15:49:16,729 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/Bbtn-arrow-red.png
+2025-05-17 15:49:17,756 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/wms_bg1.jpg
+2025-05-17 15:49:17,772 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-zs-zhbjt.png
+2025-05-17 15:49:17,807 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-file_xlsx.png
+2025-05-17 15:49:18,076 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-jt-cj.png
+2025-05-17 15:49:18,281 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/qy-libg4.jpg
+2025-05-17 15:49:18,576 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/img-bg-6101.jpg
+2025-05-17 15:49:18,600 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-dd.png
+2025-05-17 15:49:20,187 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/icon-time.png
+2025-05-17 15:49:21,580 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-download-.png
+2025-05-17 15:49:21,606 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-gb.png
+2025-05-17 15:49:27,098 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:49:28,086 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:49:30,204 - INFO - handle_html	http://www.dmpsz.com/conference/show-24709.html
+2025-05-17 15:49:30,812 - INFO - handle_html	http://www.dmpsz.com/conference/show-24016.html
+2025-05-17 15:49:36,942 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-fh.png
+2025-05-17 15:49:37,520 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/hylt_bg1.jpg
+2025-05-17 15:49:39,081 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/img-56402.jpg
+2025-05-17 15:49:41,897 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:49:42,966 - INFO - handle_html	http://www.dmpsz.com/conference/show-24027.html
+2025-05-17 15:49:46,070 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/img-56403.jpg
+2025-05-17 15:49:50,549 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/img-56404.jpg
+2025-05-17 15:49:54,637 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/img-56401.jpg
+2025-05-17 15:49:56,514 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:49:56,573 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 15:49:57,428 - INFO - handle_html	http://www.dmpsz.com/conference/show-24028.html
+2025-05-17 15:49:57,515 - INFO - handle_html	http://www.dmpsz.com/conference/show-19040.html
+2025-05-17 15:49:58,574 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/main_wd_banner.jpg
+2025-05-17 15:49:59,198 - INFO - handle_html	http://www.dmpsz.com/tools/submit_ajax.ashx?action=view_article_click&id=25125&click=1
+2025-05-17 15:49:59,810 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/sp_fengmian.jpg
+2025-05-17 15:50:00,854 - INFO - handle_html	http://www.dmpsz.com/tools/submit_ajax.ashx?action=view_article_click&id=25130&click=1
+2025-05-17 15:50:02,316 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/zhsjbg_01.jpg
+2025-05-17 15:50:12,213 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=58:decode() argument 'encoding' must be str, not None
+2025-05-17 15:51:13,243 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=50:decode() argument 'encoding' must be str, not None
+2025-05-17 15:53:52,999 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=13:decode() argument 'encoding' must be str, not None
+2025-05-17 15:54:08,266 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=14:decode() argument 'encoding' must be str, not None
+2025-05-17 15:54:39,816 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=17:decode() argument 'encoding' must be str, not None
+2025-05-17 15:56:55,148 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=16:decode() argument 'encoding' must be str, not None
+2025-05-17 15:58:13,720 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=15:decode() argument 'encoding' must be str, not None
+2025-05-17 15:59:58,879 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=6:decode() argument 'encoding' must be str, not None
+2025-05-17 16:00:06,633 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=10:decode() argument 'encoding' must be str, not None
+2025-05-17 16:02:06,803 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=19:decode() argument 'encoding' must be str, not None
+2025-05-17 16:05:51,914 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=7:decode() argument 'encoding' must be str, not None
+2025-05-17 16:06:05,256 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=20:decode() argument 'encoding' must be str, not None
+2025-05-17 16:06:08,861 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=18:decode() argument 'encoding' must be str, not None
+2025-05-17 16:06:13,787 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=11:decode() argument 'encoding' must be str, not None
+2025-05-17 16:06:15,008 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:06:16,644 - INFO - handle_html	http://www.dmpsz.com/download/list-326-2.html
+2025-05-17 16:11:20,055 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=22:decode() argument 'encoding' must be str, not None
+2025-05-17 16:11:27,527 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:11:32,874 - INFO - handle_html	http://www.dmpsz.com/photo/2023/list-315.html
+2025-05-17 16:11:38,525 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:11:40,742 - INFO - handle_html	http://www.dmpsz.com/photo2019/
+2025-05-17 16:11:48,259 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:11:50,756 - INFO - handle_html	http://www.dmpsz.com/photo/2023/list-313.html
+2025-05-17 16:12:01,534 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:12:03,397 - INFO - handle_html	http://www.dmpsz.com/photo2024/
+2025-05-17 16:12:14,198 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:12:17,371 - INFO - handle_html	http://www.dmpsz.com/photo/2023/list-316.html
+2025-05-17 16:12:23,781 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:12:23,966 - INFO - handle_html	http://www.dmpsz.com/photo/2023/list-314.html
+2025-05-17 16:12:28,963 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:12:30,012 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=5:decode() argument 'encoding' must be str, not None
+2025-05-17 16:12:30,746 - INFO - handle_html	http://www.dmpsz.com/media/show-25024.html
+2025-05-17 16:12:33,976 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:12:34,177 - INFO - handle_html	http://www.dmpsz.com/media/show-25021.html
+2025-05-17 16:12:52,793 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:12:53,605 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:12:53,893 - INFO - handle_html	http://www.dmpsz.com/media/list-308.html
+2025-05-17 16:12:58,586 - INFO - handle_html	http://www.dmpsz.com/media/list-312.html
+2025-05-17 16:13:08,268 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=53:decode() argument 'encoding' must be str, not None
+2025-05-17 16:13:29,741 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:13:29,843 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:13:29,947 - INFO - handle_html	http://www.dmpsz.com/media/show-25023.html
+2025-05-17 16:13:31,586 - INFO - handle_html	http://www.dmpsz.com/media/show-25018.html
+2025-05-17 16:13:31,739 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:13:34,039 - INFO - handle_html	http://www.dmpsz.com/media/list-309.html
+2025-05-17 16:13:43,172 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:13:45,844 - INFO - handle_html	http://www.dmpsz.com/media/show-25020.html
+2025-05-17 16:13:49,564 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=21:decode() argument 'encoding' must be str, not None
+2025-05-17 16:14:07,858 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:14:08,641 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:14:13,947 - INFO - handle_html	http://www.dmpsz.com/media/show-25019.html
+2025-05-17 16:14:14,220 - INFO - handle_html	http://www.dmpsz.com/media/list-478.html
+2025-05-17 16:14:16,897 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:14:17,683 - INFO - handle_html	http://www.dmpsz.com/media/show-25015.html
+2025-05-17 16:14:17,711 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:14:17,821 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:14:18,943 - INFO - handle_html	http://www.dmpsz.com/media/show-25022.html
+2025-05-17 16:14:20,536 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:14:21,919 - INFO - handle_html	http://www.dmpsz.com/media/list-0-2.html
+2025-05-17 16:14:23,274 - INFO - handle_html	http://www.dmpsz.com/media/show-25016.html
+2025-05-17 16:14:24,720 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:14:27,045 - INFO - handle_html	http://www.dmpsz.com/media/list-0-3.html
+2025-05-17 16:14:57,050 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:14:57,543 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:14:58,679 - INFO - handle_html	http://www.dmpsz.com/media/show-25012.html
+2025-05-17 16:14:58,696 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:14:58,727 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:14:59,370 - INFO - handle_html	http://www.dmpsz.com/tools/submit_ajax.ashx?action=view_article_click&id=20390&click=1
+2025-05-17 16:14:59,428 - INFO - handle_html	http://www.dmpsz.com/media/show-25017.html
+2025-05-17 16:14:59,855 - INFO - handle_html	http://www.dmpsz.com/media/list-311.html
+2025-05-17 16:15:03,162 - INFO - handle_html	http://www.dmpsz.com/media/show-25013.html
+2025-05-17 16:15:30,712 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:15:34,543 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:15:35,578 - INFO - handle_html	http://www.dmpsz.com/recommend/show-17715.html
+2025-05-17 16:15:35,590 - INFO - handle_html	http://www.dmpsz.com/recommend/show-17451.html
+2025-05-17 16:15:36,219 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:15:36,233 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:15:37,141 - INFO - handle_html	http://www.dmpsz.com/recommend/show-20363.html
+2025-05-17 16:15:39,614 - INFO - handle_html	http://www.dmpsz.com/news/show-24974.html
+2025-05-17 16:16:18,387 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:16:20,846 - INFO - handle_html	http://www.dmpsz.com/news/show-23736.html
+2025-05-17 16:16:33,225 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:16:34,989 - INFO - handle_html	http://www.dmpsz.com/recommend/show-25116.html
+2025-05-17 16:16:35,317 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:16:36,124 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:16:38,217 - INFO - handle_html	http://www.dmpsz.com/news/list-124-4.html
+2025-05-17 16:16:39,760 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:16:41,043 - INFO - handle_html	http://www.dmpsz.com/recommend/show-18161.html
+2025-05-17 16:16:42,116 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:16:42,623 - INFO - handle_html	http://www.dmpsz.com/recommend/show-11385.html
+2025-05-17 16:16:42,697 - INFO - handle_html	http://www.dmpsz.com/news/list-124-2.html
+2025-05-17 16:16:44,697 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:16:45,080 - INFO - handle_html	http://www.dmpsz.com/recommend/show-12228.html
+2025-05-17 16:16:46,837 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:16:47,793 - INFO - handle_html	http://www.dmpsz.com/recommend/show-20390.html
+2025-05-17 16:16:56,164 - ERROR - [Unknown Error]	http://www.dmpsz.com/tools/download.ashx?site=chinese&id=9:decode() argument 'encoding' must be str, not None
+2025-05-17 16:17:17,696 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:17:18,851 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:17:19,293 - INFO - handle_html	http://www.dmpsz.com/recommend/show-1814.html
+2025-05-17 16:17:22,986 - INFO - handle_html	http://www.dmpsz.com/recommend/show-13341.html
+2025-05-17 16:17:23,990 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/xzymdyy_bg2.jpg
+2025-05-17 16:17:24,391 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:17:24,414 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:17:24,528 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/xzymdyy_bg1.jpg
+2025-05-17 16:17:24,638 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:17:24,717 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:17:24,771 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/xzymdyy_bg4.jpg
+2025-05-17 16:17:24,899 - INFO - handle_html	http://www.dmpsz.com/news/show-24975.html
+2025-05-17 16:17:25,190 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/xzymdyy_bg5.jpg
+2025-05-17 16:17:25,512 - INFO - handle_html	http://www.dmpsz.com/news/show-25119.html
+2025-05-17 16:17:25,552 - INFO - handle_html	http://www.dmpsz.com/news/list-124-12.html
+2025-05-17 16:17:25,619 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/xzymdyy_bg3.jpg
+2025-05-17 16:17:25,663 - INFO - handle_html	http://www.dmpsz.com/news/list-124-3.html
+2025-05-17 16:17:26,040 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/jxzs_foot_bg.jpg
+2025-05-17 16:17:26,874 - INFO - handle_html	http://www.dmpsz.com/tools/submit_ajax.ashx?action=view_article_click&id=20363&click=1
+2025-05-17 16:17:27,732 - INFO - handle_html	https://www.dmpsz.com/welfare.html
+2025-05-17 16:17:30,647 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:17:31,626 - INFO - handle_html	https://www.dmpsz.com/freehotel/
+2025-05-17 16:17:33,543 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:17:34,521 - INFO - handle_html	http://www.dmpsz.com/recommend/show-12883.html
+2025-05-17 16:17:58,624 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:18:02,551 - INFO - handle_html	http://www.dmpsz.com/recommend/list-0-4.html
+2025-05-17 16:18:08,395 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:18:10,723 - INFO - handle_html	http://www.dmpsz.com/recommend/show-12785.html
+2025-05-17 16:18:19,281 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:18:29,222 - INFO - handle_html	http://www.dmpsz.com/recommend/list-0-3.html
+2025-05-17 16:18:33,048 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:18:33,056 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:18:34,164 - INFO - handle_html	http://www.dmpsz.com/recommend/show-12772.html
+2025-05-17 16:18:34,270 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:18:34,359 - WARNING - [isdir]	tel:075522671503	/
+2025-05-17 16:18:34,973 - INFO - handle_html	http://www.dmpsz.com/recommend/show-12946.html
+2025-05-17 16:18:35,386 - INFO - handle_html	http://www.dmpsz.com/recommend/list-0-26.html
+2025-05-17 16:18:35,531 - INFO - handle_html	http://www.dmpsz.com/recommend/show-12804.html
+2025-05-17 16:18:35,833 - INFO - Downloaded	http://www.dmpsz.com/templates/dmpsz/images/ico-m-sub-01-hover.png
