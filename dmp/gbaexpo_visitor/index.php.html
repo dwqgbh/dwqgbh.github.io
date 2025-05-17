@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="./css/jquery-ui.css">
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/ui-grid-unstable.min.css">
-    <title>GREATER BAY EXPO 观众网上预先登记</title>
+    <title>DMP 观众网上预先登记</title>
     <script type="text/javascript" src="./js/jquery.min.js"></script>
     <script type="text/javascript" src="./js/moment-with-locales.min.js"></script>
     <script type="text/javascript" src="./js/bootstrap.js"></script>
@@ -27,24 +27,24 @@
     <script type="text/javascript">
         $(document).ready(function() {
             var messages = {
-    "wrong_icon": "You've selected the wrong image.",
-    "no_selection": "No image has been selected.",
-    "empty_form": "You've not submitted any form.",
-    "invalid_id": "The captcha ID was invalid.",
-    "form_token": "The form token was invalid.",
+    "wrong_icon": "\u60a8\u9078\u932f\u4e86\u5716\u7247\u3002 ",
+    "no_selection": "\u6c92\u6709\u9078\u64c7\u5716\u50cf\u3002 ",
+    "empty_form": "\u60a8\u9084\u6c92\u6709\u63d0\u4ea4\u4efb\u4f55\u8868\u683c\u3002 ",
+    "invalid_id": "\u9a57\u8b49\u78bc\u7121\u6548\u3002 ",
+    "form_token": "\u8868\u55ae\u4ee4\u724c\u7121\u6548\u3002 ",
     "initialization": {
-        "verify": "Verify that you are human.",
-        "loading": "Loading challenge..."
+        "verify": "\u9a57\u8b49\u4f60\u662f\u4eba\u985e\u3002 ",
+        "loading": "\u52a0\u8f09\u6311\u6230..."
     },
-    "header": "Select the image displayed the <u>least<\/u> amount of times",
-    "correct": "Verification complete.",
+    "header": "\u9078\u64c7\u986f\u793a\u6b21\u6578<u>\u6700\u5c11<\/u>\u7684\u5716\u7247",
+    "correct": "\u9a57\u8b49\u5b8c\u6210\u3002 ",
     "incorrect": {
-        "title": "Uh oh.",
-        "subtitle": "You\\'ve selected the wrong image."
+        "title": "\u5443\u54e6\u3002 ",
+        "subtitle": "\u4f60\u9078\u932f\u4e86\u5716\u7247\u3002"
     },
     "timeout": {
-        "title": "Please wait 60 sec.",
-        "subtitle": "You made too many incorrect selections."
+        "title": "\u8acb\u7b49\u5f85 60 \u79d2",
+        "subtitle": "\u4f60\u505a\u4e86\u592a\u591a\u4e0d\u6b63\u78ba\u7684\u9078\u64c7\u3002 "
     }
 };
             IconCaptcha.init('.iconcaptcha-holder',{
@@ -88,7 +88,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="">GREATER BAY EXPO 观众网上预先登记</a>
+            <a class="navbar-brand" href="">DMP 观众网上预先登记</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
                     </div>
@@ -104,15 +104,15 @@
         </div>
     </div>    <div class="col-md-10 col-md-offset-1">
         <div class="text-left">
-            <h4><strong><a style="color: red;" href="./login.php.html">【Registered User Login】</a></strong></h4>
+            <h4><strong><a style="color: red;" href="./login.php.html">【已登记用户入口】</a></strong></h4>
         </div>
         <div class="text-right">
             <a href="./visitor_reg.php%3Flang=cn.html">中文</a> |
             <a href="./visitor_reg.php%3Flang=en.html">English</a>
         </div>
-        <h2 class="text-center">2023 Greater Bay Area Industrial Expo</h2>
+        <h2 class="text-center">2025大湾区工业博览会</h2>
 
-        <h3 class="text-center">REGISTRATION FORM</h3>
+        <h3 class="text-center">观众网上登记</h3>
                 <a href="https://admin.dwqgbh.cn/nav/guestbook.htm"  target="_blank">联系我们</a>
     </div>
     <script type="text/javascript">
@@ -121,19 +121,19 @@
 
         $("#reg").validate({
             messages: {
-                name: "Please Enter Your Name",
-                company: "Please Enter Your Company Name",
-                title: "Please Enter Your Title",
-                address: "Please Enter Your Address",
-                country: "Please Select Your Country",
-                phone_country: "Please Enter the Country Code Of Telephone",
-                phone_area: "Please Enter the Area Code Of Telephone",
-                phone_number: "Please Enter the Telephone",
-                fax_country: "Please Enter the Country Code Of Fax",
-                fax_area: "Please Enter the Area Code Of Fax",
-                fax_number: "Please Enter the Fax",
-                mobile: "Please Enter Your Mobile",
-                email: "Please Enter Your Email"
+                name: "请输入姓名",
+                company: "请输入公司名称",
+                title: "请输入职衔",
+                address: "请输入地址",
+                country: "请选择国家",
+                phone_country: "请输入电话国家代码",
+                phone_area: "请输入电话区号",
+                phone_number: "请输入电话号码",
+                fax_country: "请输入传真国家代码",
+                fax_area: "请输入传真区号",
+                fax_number: "请输入传真号码",
+                mobile: "请输入手机",
+                email: "请输入有效电邮，當中不能包含#、!、%等符號。"
             }
         });
     </script>
@@ -143,7 +143,7 @@
     <div class="container">
         <div class="col-md-8">
             <p class="text-muted">
-                Copyright @2016 - 2017 Paper Communication Exhibition Services. All rights reserved.
+                Copyright @2023 - 2024 Paper Communication Exhibition Services. All rights reserved.
             </p>
         </div>
         <div class="col-md-4">
