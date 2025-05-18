@@ -1,104 +1,52 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="./css/bootstrap.min.css">
-    <link rel="stylesheet" href="./css/bootstrap-datetimepicker.css">
-    <link rel="stylesheet" href="./css/jquery-ui.css">
-    <link rel="stylesheet" href="./css/style.css">
-    <link rel="stylesheet" href="./css/ui-grid-unstable.min.css">
-    <title>DFM2024 观众网上预先登记</title>
-    <script type="text/javascript" src="./js/jquery.min.js"></script>
-    <script type="text/javascript" src="./js/moment-with-locales.min.js"></script>
-    <script type="text/javascript" src="./js/bootstrap.js"></script>
-    <script type="text/javascript" src="./js/bootstrap-datetimepicker.js"></script>
-    <script type="text/javascript" src="./js/jquery.validate.js"></script>
-    <script type="text/javascript" src="./js/jquery-validate.bootstrap-tooltip.js"></script>
-    <script type="text/javascript" src="./js/angular.js"></script>
-    <script type="text/javascript" src="./js/ui-grid-unstable.min.js"></script>
-    <!--    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-moment/0.9.0/angular-moment.min.js"></script>-->
-    <script type="text/javascript" src="./js/main.js"></script>
-    <script src='https://www.recaptcha.net/recaptcha/api.js' async defer></script>
+<meta charset="UTF-8">
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<title>讯通展览</title>
+<link rel="stylesheet" type="text/css" href="https://m-v2.huicanzhan.cn/b/646311133975557/css/css.css">
+<script src="https://xt.zbase.cn/js/layer_mobile/layer.js"></script>
+<script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script src="https://m-v2.huicanzhan.cn/b/646311133975557/js/ty/jquery-1.8.2.min.js"></script>
+<script src="https://m-v2.huicanzhan.cn/b/646311133975557/js/ty/tool.js"></script>
+<script src="https://m-v2.huicanzhan.cn/b/646311133975557/js/ty/yz.js"></script>
+<script src="https://m-v2.huicanzhan.cn/b/646311133975557/js/index.js?sjs=1"></script>
 </head><div id="ttp"><div id="ttl"><a href="http://dwqgbh.cn"><img src="/nav/logo.png"></a></div><div id="ttn"><a id="gba" href="http://dwqgbh.cn/" >首页</a><a id="xt" href="http://dwqgbh.cn/xt/cn/" >近期展会</a><a id="dmp" href="/dmp/cn/">模具机床设备展</a><a id="dtc" href="/dtc/cn/">纺织缝制设备展</a><a id="dfm" href="/dfm/cn/">鞋机飞织技术展</a><a id="news" href="/news/"  target="_blank">快讯</a><a id="nav" href="https://admin.dwqgbh.cn/nav/guestbook.htm"  target="_blank">联系我</a><a class="wysj wysj-iconfontcolor39"  href="tel:13761470961" target="_blank">13761470961</a></div></div><link rel="stylesheet" type="text/css" href="/nav/wysj-iconfont.css"><link rel="stylesheet" type="text/css" href="/nav/5us-mobile.css"><link rel="stylesheet" type="text/css" href="/nav/5us-single.css"><link rel="stylesheet" type="text/css" href="/nav/5us-border.css"><link rel="stylesheet" href="/nav/ttn.css"><script type="text/javascript" src="/nav/5us-single.js"></script><script type="text/javascript" src="/nav/jquery.min.js"></script><a id="wysj-switch" class="wysj wysj-kefu2" href="javascript:;"></a><div id="wysj-pop"></div><div id="wysj-waiter"><ul class="waiter-ul"><li class="wuyou-phone"><a class="wysj wysj-iconfontcolor39" href="tel:13761470961" target="_blank"></a><div class="waiter-title">TEL 13761470961</div></li><li class="wuyou-qq"><a class="wysj wysj-qq" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1301150027&amp;site=qq&amp;menu=yes" target="_blank"></a><div class="waiter-title">QQ咨询</div></li><li class="wuyou-qqqun"><a class="wysj wysj-email4" href="mailto:1301150027@qq.com"></a><div class="waiter-title">QQ邮箱</div></li><li class="wuyou-ww"><a class="wysj wysj-edit" href="https://admin.dwqgbh.cn/nav/guestbook.htm" target="_blank"></a><div class="waiter-title">请您留言</div></li><li class="wuyou-qrCode"><a class="wysj wysj-weixin-copy" href="javascript:;" target="_blank"></a><div class="waiter-title"><img src="/nav/wx.png"><p>关注微信</p></div></li><li class="wuyou-top"><a class="wysj wysj-dingbu1" href="javascript:;" onclick="backTop()"></a><div class="waiter-title">回到顶部</div></li></ul></div><script type="text/javascript" src="/nav/init.js"></script>
-<body role="document">
-<nav class="navbar navbar-default">
-    <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
-                    aria-expanded="false" aria-controls="navbar">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="./index.php.html">DFM2024 观众网上预先登记</a>
-        </div>
-        <div id="navbar" class="navbar-collapse collapse">
-                    </div>
-        <!--/.nav-collapse -->
-    </div>
-</nav>
-<div class="container">
-    <div class="row">
-        <div class="jumbotron">
-            <a href="./../../../index.html">
-                <img src="https://www.dfmshow.com/images/DFM-header(1038x224).jpg" style="margin: 0px auto" class="img-responsive" border="0">
-            </a>
-        </div>
-    </div>    <div class="col-md-10 col-md-offset-1">
-        <div class="text-left">
-            <h4><a href="./login.php.html">【已登记用户入口】</a></h4>
-        </div>
-        <div class="text-right">
-            <a href="./../../../dfm_visitor/visitor_reg.php%3Flang=cn.html">中文</a> |
-            <a href="./../../../dfm_visitor/visitor_reg.php%3Flang=en.html">English</a>
-        </div>
-        <h2 class="text-center">2024大湾区国际智能鞋机鞋材工业设备展</h2>
-
-        <h3 class="text-center">观众网上登记</h3>
-                <a href="https://admin.dwqgbh.cn/nav/guestbook.htm"  target="_blank">联系我们</a>
-    </div>
-    <script type="text/javascript">
-        $("#reg").validate({
-            messages: {
-                name: "请输入姓名",
-                id_card: "请输入身份证号码/护照",
-                company: "请输入公司名称",
-                title: "请输入职衔",
-                address: "请输入地址",
-                country: "请选择国家",
-                phone_country: "请输入电话国家代码",
-                phone_area: "请输入电话区号",
-                phone_number: "请输入电话号码",
-                fax_country: "请输入传真国家代码",
-                fax_area: "请输入传真区号",
-                fax_number: "请输入传真号码",
-                mobile: "请输入手机",
-                email: "请输入有效电邮，當中不能包含#、!、%等符號。"
-            }
-        }).on("submit", function (e) {
-            setTimeout(function () {
-                $("input[type=submit]").attr('disabled', 'disabled');
-            }, 50);
-        });
-    </script>
+<body>
+<input id="event_id" type="hidden" value="646311133975557" />
+<div class="bg_bai">
+<div class="banner">
+<img src="https://m-v2.huicanzhan.cn/b/646311133975557/images/banner.jpg">
 </div>
+<div class="yuyan">
+<a href="JavaScript:void(0)" onclick="qiehuan(2)">港澳臺</a>
+<a href="JavaScript:void(0)" onclick="qiehuan(1)">English</a>
 </div>
-<footer class="footer">
-    <div class="container">
-        <div class="col-md-8">
-            <p class="text-muted">
-                Copyright @2022 - 2023 Paper Communication Exhibition Services. All rights reserved.
-            </p>
-        </div>
-        <div class="col-md-4">
-            <p class="text-muted text-right">
-                <a href="./login.php%3Fadmin=true.html">Admin Login</a>
-            </p>
-        </div>
-    </div>
-</footer>
+<ul class="dl_one">
+<li>
+<h3><i>*</i>手机号码</h3>
+<input type="text" class="txt" placeholder="请输入手机号码" id="shouji">
+</li>
+<li>
+<h3><i>*</i>图形验证码</h3>
+<div class="flex">
+<input type="text" class="txt" placeholder="请输入图形验证码" id="tx_yzm">
+<img class="imgYzm" id="ImgCode" onclick="hq_txyzm()">
+</div>
+</li>
+<li>
+<h3><i>*</i>短信验证</h3>
+<div class="flex">
+<input type="text" class="txt" placeholder="请输入短信验证码" id="dx_yzm" maxlength="6">
+<input type="button" class="ImgCode" value="获取验证码" id="js_get_phone" style="background: #C71585;margin-left: 5px;width:40%; border: 0; line-height: 42px;  color: #fff;font-size: 16px; border-radius: 4px;" onclick="javascript:fsdx();">
+<input type="button" class="ImgCode " value="" id="second" style="display: none;background: #C71585;margin-left: 5px;width:40%; border: 0; line-height: 42px;  color: #fff;font-size: 16px; border-radius: 4px; ">
+<input type="button" class="ImgCode" value="" id="sci" style="display: none;background: #C71585;margin-left: 5px;width:40%; border: 0; line-height: 42px;  color: #fff;font-size: 16px; border-radius: 4px; ">
+</div>
+</li>
+</ul>
+<p class="pBtn">
+<button class="btn_save" onclick="qaa_user()">下一步</button>
+</p>
+</div>
 </body>
 </html>
